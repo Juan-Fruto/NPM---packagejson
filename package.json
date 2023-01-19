@@ -7,7 +7,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"author": "Juan José Fruto Ramírez",
+	"author": "Juan-José-Fruto-Ramírez",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
